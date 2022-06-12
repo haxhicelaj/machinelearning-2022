@@ -1,4 +1,4 @@
-## Table of Content: 
+## Table of contents 
 * INTRODUCTION
 * IMPORTING LIBRARIES
 * USER DEFINED FUNCTIONS

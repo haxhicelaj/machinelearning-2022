@@ -16,7 +16,7 @@ Machine Learning faculty project using heart.csv dataset to predict Heart Failur
 Project is created with:
 * Google Colaboratory
 
-## Used Machine Learning Algorithms 
+## Used Machine Learning Algorithms with and without hyperparameter tunning
 * Logistic Regression (LR)
 * Support Vector Machine (SVM)
 * Decision Tree (DT)
